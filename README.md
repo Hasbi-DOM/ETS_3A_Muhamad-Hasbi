@@ -1,1 +1,2 @@
 # ETS_3A_Muhamad-Hasbi
+# ETS-Project memiliki framework diantaranya express.js , node.js , vue.js. Bertujuan untuk menyambungkan Back-end dengan front-end menggunakan API serta menyimpan data pada database. Saya terkendala pada proses CRUD karena terdapat masalah pada library nya. Selain itu, saya terkendala dalam pengumpulan ETS ini melalui github karna terdapat masalah terhubung dengan akun lain sehingga saya tidak dapat melakukan 'git push'. Dalam hal ini, saya cukup lama mencari solusinya.
